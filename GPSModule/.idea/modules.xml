@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GPSModule.iml" filepath="$PROJECT_DIR$/GPSModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soundar_gps/soundar_gps.iml" filepath="$PROJECT_DIR$/soundar_gps/soundar_gps.iml" />
+    </modules>
+  </component>
+</project>
