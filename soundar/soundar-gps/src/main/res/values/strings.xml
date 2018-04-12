@@ -1,0 +1,3 @@
+<resources>
+    <string name="permission_warning">許可されないとアプリが実行できません</string>
+</resources>
